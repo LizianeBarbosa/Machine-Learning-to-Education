@@ -1,0 +1,11 @@
+.xlsx*
+data/
+code/censo1314.py
+code/exploratorio-1.ipynb
+code/exploratorio-2.ipynb
+code/exploratorio-3.ipynb
+__pycache__/
+.ipynb_checkpoints
+.xlsx*
+code/without_missing.csv
+code/merge.csv

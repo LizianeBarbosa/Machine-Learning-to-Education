@@ -1,0 +1,45 @@
+{
+    "inse":[
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2015/nivel_socioeconomico/Indicador_Inse_2015.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2011_2013/nivel_socioeconomico/Indicador_INSE_por_Escola.zip"
+    ],
+
+    "ideb":[
+        "http://download.inep.gov.br/educacao_basica/portal_ideb/planilhas_para_download/2017/divulgacao_anos_finais_municipios2017-atualizado-Jun_2019.zip",
+        "http://download.inep.gov.br/educacao_basica/portal_ideb/planilhas_para_download/2017/divulgacao_anos_iniciais_municipios2017-atualizado-Jun_2019.zip"
+    ],
+
+    "icg":[
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2013/complexidade_gestao_escola/complexidade_gestao_escola_municipios_2013.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2014/complexidade_gestao_escola/complexidade_gestao_escola_municipios_2014.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2015/complexidade_gestao_escola/complexidade_gestao_escola_municipios_2015.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2016/ICG_2016_MUNICIPIOS.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2017/ICG_2017_MUNICIPIOS.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2018/ICG_2018_MUNICIPIOS.zip"
+    ],
+
+    "taxas_rendimento":[
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2013/taxa_rendimento/tx_rendimento_municipios_2013.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2014/taxa_rendimento/tx_rendimento_municipios_2014.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2015/taxa_rendimento/tx_rendimento_municipios_2015.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2016/TAXA_REND_2016_MUNICIPIOS.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2017/TAXA_REND_2017_MUNICIPIOS.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2018/TX_REND_MUNICIPIOS_2018.zip"
+
+    ],
+    
+    "colunas_taxas_rendimento" : ["ano", "regiao",	"uf",	"cod_ibge",	"nome_munic",	"locallizacao",	"dep_adm",	"tot_fund_tx_ap",	"anos_iniciais_tx_ap",	"anos_finais_tx_ap", "drop_1_ap",	"drop_2_ap",	"drop_3_ap",	"drop_4_ap",	"drop_5_ap",	"drop_6_ap",	"drop_7_ap",	"drop_8_ap",	"drop_9_ap",	"drop_10_ap",	"drop_11_ap",	"drop_12_ap",	"drop_13_ap",	"drop_14_ap",	"drop_15_ap","tot_fund_tx_rep",	"anos_iniciais_tx_rep",	"anos_finais_tx_rep", "drop_1_rep",	"drop_2_rep",	"drop_3_rep",	"drop_4_rep",	"drop_5_rep",	"drop_6_rep",	"drop_7_rep",	"drop_8_rep",	"drop_9_rep",	"drop_10_rep",	"drop_11_rep",	"drop_12_rep",	"drop_13_rep",	"drop_14_rep",	"drop_15_rep", "tot_fund_tx_aban",	"anos_iniciais_tx_aban",	"anos_finais_tx_aban",  "drop_1_ab",	"drop_2_ab",	"drop_3_ab",	"drop_4_ab",	"drop_5_ab",	"drop_6_ab",	"drop_7_ab",	"drop_8_ab",	"drop_9_ab",	"drop_10_ab",	"drop_11_ab",	"drop_12_ab",	"drop_13_ab",	"drop_14_ab",	"drop_15_ab"],
+
+    "taxas_distorcao":[
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2013/distorcao_idade_serie/tdi_municipios_2013.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2014/distorcao_idade_serie/tdi_municipios_2014.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2015/distorcao_idade_serie/tdi_municipios_2015.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2016/TDI_2016_MUNICIPIOS.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2017/TDI_2017_MUNICIPIOS.zip",
+        "http://download.inep.gov.br/informacoes_estatisticas/indicadores_educacionais/2018/TDI_2018_MUNICIPIOS.zip"
+    ],
+    "colunas_taxas_distorcao_13_14" : ["ano",	"NO_REGIAO",	"SIGLA",	"PK_COD_MUNICIPIO",	"NO_MUNICIPIO",	"TIPOLOCA",	"Dependad",	"TDI_FUN",	"TDI_F14",	"TDI_F58",	"TDI_F00",	"TDI_F01",	"TDI_F02",	"TDI_F03",	"TDI_F04",	"TDI_F05",	"TDI_F06",	"TDI_F07",	"TDI_F08",	"TDI_MED",	"TDI_M01",	"TDI_M02",	"TDI_M03",	"TDI_M04"],
+    "colunas_taxas_distorcao_15" : ["NU_ANO_CENSO",	"NO_REGIAO",	"CO_UF",	"SG_UF",	"CO_MUNICIPIO",	"NO_MUNICIPIO",	"TIPOLOCA",	"DEPENDAD",	"TDI_FUN",	"TDI_F14",	"TDI_F58",	"TDI_F00",	"TDI_F01",	"TDI_F02",	"TDI_F03",	"TDI_F04",	"TDI_F05",	"TDI_F06",	"TDI_F07",	"TDI_F08",	"TDI_MED",	"TDI_M01",	"TDI_M02",	"TDI_M03",	"TDI_M04"],
+    "colunas_taxas_distorcao_16_17_18" : ["NU_ANO_CENSO",	"NO_REGIAO",	"SG_UF",	"CO_MUNICIPIO",	"NO_MUNICIPIO",	"TIPOLOCA",	"DEPENDAD",	"TDI_FUN",	"TDI_F14",	"TDI_F58",	"TDI_F00",	"TDI_F01",	"TDI_F02",	"TDI_F03",	"TDI_F04",	"TDI_F05",	"TDI_F06",	"TDI_F07",	"TDI_F08",	"TDI_MED",	"TDI_M01",	"TDI_M02",	"TDI_M03",	"TDI_M04"]
+
+}   
